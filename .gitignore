@@ -1,1 +1,12 @@
-.DS_STORE
+*.bin
+*.lock
+*.class
+/.metadata/
+target/
+*.iml
+**/.idea
+**/build
+**/.gradle
+**/gradle
+**/.vscode
+*.DS_Store
